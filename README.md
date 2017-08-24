@@ -1,6 +1,6 @@
 # TalkingData Mobile User Demographics
 
-# Data Specification
+# Specification
 
 1. Data File : 6
   - gender_age_train , phone_brand_device_model, events, app_events, app_labels, label_categories
